@@ -2,18 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://sriki2021.github.io/posts/welcome/index.html</loc>
-    <lastmod>2026-06-15T13:18:31.259Z</lastmod>
+    <lastmod>2026-06-15T13:18:32.000Z</lastmod>
   </url>
   <url>
-    <loc>https://sriki2021.github.io/index.html</loc>
-    <lastmod>2026-06-15T13:18:31.253Z</lastmod>
+    <loc>https://sriki2021.github.io/posts/01-intro/01-introduction.html</loc>
+    <lastmod>2026-06-15T15:16:06.000Z</lastmod>
   </url>
   <url>
     <loc>https://sriki2021.github.io/about.html</loc>
-    <lastmod>2026-06-15T13:18:31.271Z</lastmod>
+    <lastmod>2026-06-15T13:18:32.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://sriki2021.github.io/index.html</loc>
+    <lastmod>2026-06-15T13:18:32.000Z</lastmod>
   </url>
   <url>
     <loc>https://sriki2021.github.io/posts/post-with-code/index.html</loc>
-    <lastmod>2026-06-15T13:18:31.266Z</lastmod>
+    <lastmod>2026-06-15T13:18:32.000Z</lastmod>
   </url>
 </urlset>

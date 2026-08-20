@@ -7,11 +7,11 @@
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "How to Simulate a Schwarzschild Black Hole",
+    "objectID": "posts/01-intro/01-introduction.html",
+    "href": "posts/01-intro/01-introduction.html",
+    "title": "Why and how to simulate a Schwarzschild Black Hole?",
     "section": "",
-    "text": "Post With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 15, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 12, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
+    "text": "Black holes are enormous astronomical bodies, with all their mass compressed into an tiny point known as the singularity. Their gravitational pull on nearby objects is so strong that even if light rays come close enough, (cross a boundary known as the event horizon) they cannot escape. They have a multitude of other interesting characteristics (time dilation, lensing of light, and potentially even portals to other universes!) that make them worth exploring. Considering their extreme properties, scientists also use them to test possible theories at the fringes of what we know definitively, to try and bridge the gap between general relativity (the theory describing black holes and our universe at a large scale) and quantum mechanics (the theory describing very small matter, such as in the singularity of a black hole).\n\nBasics of General relativity\nNewtonian gravity taught us that gravity is a force acting on"
   },
   {
     "objectID": "about.html",
@@ -19,6 +19,13 @@
     "title": "About",
     "section": "",
     "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "How to Simulate a Schwarzschild Black Hole",
+    "section": "",
+    "text": "Why and how to simulate a Schwarzschild Black Hole?\n\n\n\nblog\n\ngeneral-relativity\n\n\n\n\n\n\n\n\n\nSrikanth Mettu\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 15, 2026\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJun 12, 2026\n\n\nTristan O’Malley\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/post-with-code/index.html",
